@@ -47,7 +47,7 @@ body {
     left:0px;
     height:100%;
     width:100%;
-    border-bottom:3px solid red;
+    border-bottom:3px solid #EF8354;
     transform: translateX(-100%);
     transition: all .5s ease-in-out;
 }
@@ -63,6 +63,7 @@ body {
 .form input:valid + label.label-name .content-name {
     /** animate border bottom*/
     transform: translateY(-100%);
+    color:#EF8354
 }
 
 .form input:focus + label.label-name::after,
