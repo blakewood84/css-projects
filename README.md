@@ -1,4 +1,4 @@
 ## Open Source Library of CSS Project and  Animations
-### By Blake Wood
+### -- all contributors welcome!
 
-1. Input Anime
+1. Form Input Anime
