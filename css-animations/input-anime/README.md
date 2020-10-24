@@ -2,4 +2,4 @@
 **by Blake Wood**
 blake.wood.bst@visible.edu
 ---
-![input-anime](input-anime.gif "input-anime")
+![input-anime](input-anime.jpg "input-anime")
