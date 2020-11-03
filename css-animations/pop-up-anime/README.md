@@ -1,6 +1,8 @@
-Author: Coding Flag
+Author: [Coding Flag][coding-flag]
 ---
+![gif-intro][gif-url] 
 
-[Author][coding-flag]
+[gif-url]: intro.gif
+
 
 [coding-flag]: https://the-winter-is-sparkling-and-frozen.io
